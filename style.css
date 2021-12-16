@@ -1,0 +1,68 @@
+
+body{
+  background-color: orange
+}
+
+.title-container{
+height: 30vh;
+}
+
+.title-hello {
+  font-size: 10rem;
+  font-weight: 700;
+font-family: 'Shalimar', cursive;
+}
+.title-name {
+  font-size: 2.5rem;
+  font-weight: 600;
+font-family: 'Shalimar', cursive;
+
+position: relative;
+top: -2.5rem;
+
+
+color: rgba(255, 140, 0);
+}
+
+.title-tag {
+  font-size: 3rem;
+  font-weight: 1000;
+  font-family: 'Shalimar', cursive;
+  position: relative;
+  top: -2rem;
+}
+
+.about-me-container {
+  width:80vw;
+  height: 50vh;
+
+margin-left: 10vw;
+  background-color: #9f7000;
+}
+
+.about-me-image{
+  height:23vw;
+  weight: 25vw;
+  border-radius: 100%
+}
+.about-me-text {
+  font-size: 2rem;
+  font-family: 'Shalimar', cursive;
+padding-left: 5% !important;
+padding-right: 5% !important;
+
+}
+
+
+
+.contact-me-container {
+  margin-top: 5vh;
+  font-size: 3rem;
+  font-weight: 1000;
+  font-family: 'Shalimar', cursive;
+}
+.contact-me-image{
+  height:10vw;
+  width: 10vw;
+  weight: 5vw;
+border-radius: 300%
